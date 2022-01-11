@@ -1,2 +1,2 @@
 # Balaji
-Here we start HOC project
+Here we start HOC project with redux
